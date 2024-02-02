@@ -11,5 +11,7 @@ This provides us a list of ambient weather monitoring systems all marked at diff
   This provides us with many subsystems that we can use in our monitoring system, such as wireless thermometer or a temperature logger. This will be a alarge system composed of amny sub systems that comes together, because monitoring the weather calls for us to measure many different things and keep record of it.
 
   
-* **Source 4**:
-* **Source 5**: 
+* **Source 4**: [Local Weather Station Design] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10675263/)
+  This is helpful in that it covers weather analytics, sustainable monitoring, atmospheric data, predictive modeling, data collaboration, sensor networks. This document covers the understanding of the issue and why we are doing this project, along with many details about how weather monitoring works and whats needed to do that.
+  
+
